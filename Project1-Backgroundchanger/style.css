@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.background-changer-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    flex-direction: column;
+}
+
+#color-code{
+    margin-top:1rem;
+    padding: 10px 16px;
+    background-color: azure;
+    font-weight: 900;
+
+}
+#btn-color{
+    padding: 10px 16px;
+    background-color: azure;
+    cursor: pointer;
+    font-weight: 900;
+  
+  
+}
